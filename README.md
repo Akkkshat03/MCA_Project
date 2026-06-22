@@ -275,7 +275,7 @@ Both deployed on **Vercel**:
 **Akshat Kumar Gupta**
 MCA Student | Full-Stack Developer
 📧 [work.akshat3003@gmail.com](mailto:work.akshat3003@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/akshat-gupta-770418263)
+🔗 [LinkedIn]([www.linkedin.com/in/akshat-gupta-770418263](https://www.linkedin.com/in/akshat-gupta-770418263?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 🐙 [GitHub](https://github.com/Akkkshat03)
 
 ---
